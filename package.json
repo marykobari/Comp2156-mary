@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "comp2156",
   "version": "1.0.0",
   "main": "index.js",
@@ -17,4 +18,23 @@
   },
   "homepage": "https://github.com/marykobari/Comp2156#readme",
   "description": ""
+=======
+  "name": "comp2156-mary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marykobari/Comp2156-mary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marykobari/Comp2156-mary/issues"
+  },
+  "homepage": "https://github.com/marykobari/Comp2156-mary#readme"
+>>>>>>> 96aa739c76df10874b0b1eaa899f527f5561b299
 }
