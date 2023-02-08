@@ -1,0 +1,19 @@
+{
+  "name": "comp2156-mary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marykobari/Comp2156-mary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marykobari/Comp2156-mary/issues"
+  },
+  "homepage": "https://github.com/marykobari/Comp2156-mary#readme"
+}
