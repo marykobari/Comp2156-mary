@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "comp2156",
   "version": "1.0.0",
   "main": "index.js",
@@ -19,6 +20,8 @@
   "homepage": "https://github.com/marykobari/Comp2156#readme",
   "description": ""
 =======
+=======
+>>>>>>> 96aa739c76df10874b0b1eaa899f527f5561b299
   "name": "comp2156-mary",
   "version": "1.0.0",
   "description": "",
@@ -36,5 +39,8 @@
     "url": "https://github.com/marykobari/Comp2156-mary/issues"
   },
   "homepage": "https://github.com/marykobari/Comp2156-mary#readme"
+<<<<<<< HEAD
+>>>>>>> 96aa739c76df10874b0b1eaa899f527f5561b299
+=======
 >>>>>>> 96aa739c76df10874b0b1eaa899f527f5561b299
 }
