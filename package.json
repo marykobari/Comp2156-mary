@@ -14,15 +14,15 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amirsam4781/comp2156.git"
+    "url": "git+https://github.com/marykobari/Comp2156-mary"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Amirsam4781/comp2156/issues"
+    "url": "https://github.com/marykobari/Comp2156-mary/issues"
   },
-  "homepage": "https://github.com/Amirsam4781/comp2156#readme", "dependencies": {
+  "homepage": "https://github.com/marykobari/Comp2156-mary#readme", "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
