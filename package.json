@@ -1,46 +1,42 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "name": "comp2156",
+  "name": "Comp2156-mary",
   "version": "1.0.0",
+  "description": "Maryam",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: No tests created yet.\""
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Warning: No tests created yet.\"",
+    "eject": "react-scripts eject"
   },
+  
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marykobari/Comp2156.git"
+    "url": "git+https://github.com/marykobari/Comp2156-mary"
   },
   "keywords": [],
-  "author": "mary",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/marykobari/Comp2156/issues"
-  },
-  "homepage": "https://github.com/marykobari/Comp2156#readme",
-  "description": ""
-=======
-=======
->>>>>>> 96aa739c76df10874b0b1eaa899f527f5561b299
-  "name": "comp2156-mary",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/marykobari/Comp2156-mary.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/marykobari/Comp2156-mary/issues"
   },
-  "homepage": "https://github.com/marykobari/Comp2156-mary#readme"
-<<<<<<< HEAD
->>>>>>> 96aa739c76df10874b0b1eaa899f527f5561b299
-=======
->>>>>>> 96aa739c76df10874b0b1eaa899f527f5561b299
+  "homepage": "https://github.com/marykobari/Comp2156-mary#readme", 
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "travis": "^0.1.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ] 
 }
