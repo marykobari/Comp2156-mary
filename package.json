@@ -22,13 +22,13 @@
   "bugs": {
     "url": "https://github.com/marykobari/Comp2156-mary/issues"
   },
-  "homepage": "https://github.com/marykobari/Comp2156-mary#readme", "dependencies": {
-    "gh-pages": "^2.0.1",
+  "homepage": "https://github.com/marykobari/Comp2156-mary#readme", 
+  "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "travis": "^0.1.1",
-    "yarn": "^1.13.0"
+    "travis": "^0.1.1"
   },
   "eslintConfig": {
     "extends": "react-app"
